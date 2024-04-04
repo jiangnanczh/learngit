@@ -1,4 +1,3 @@
-waweawdawdawdawda
 git is a stupid software.
 we need more something.
 git is a distributed version control system.
@@ -8,4 +7,5 @@ git tracks changes of files.
 git tracks changes.
 git tracks something.
 creadting a new branch is quick.
+creating a new branch is quick & simple.
 
