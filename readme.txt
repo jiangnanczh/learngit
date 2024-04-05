@@ -9,4 +9,5 @@ git tracks something.
 creadting a new branch is quick.
 creating a new branch is quick AND simple.
 git is a free software...
+fen zhi xiu gai hou mei you ti jiao shi wu fa qie huan dao ling yi fen zhi de.
 
